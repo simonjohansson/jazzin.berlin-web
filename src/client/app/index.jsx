@@ -1,6 +1,5 @@
 import React from 'react';
 import {render} from 'react-dom';
-import AwesomeComponent from './AwesomeComponent.jsx';
 import DatePickerComponent from './DatePickerComponent.jsx';
 
 var moment = require('moment');
